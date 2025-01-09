@@ -187,6 +187,7 @@ The **Dynamic Retail Dashboard** enables businesses to:
 - Monitor key metrics via KPIs.  
 - Gain actionable insights into category, segment, and geographical trends.  
 - Make informed, strategic decisions to enhance performance.  
+![image](https://github.com/user-attachments/assets/adfe74b1-29ac-4f01-be6f-cd23104f5cb2)
 
 --- 
 
