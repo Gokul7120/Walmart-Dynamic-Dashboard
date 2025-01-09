@@ -78,7 +78,8 @@ Information about sales representatives and the regions they manage.
 | Number of Orders   | 🛒         |  
 | Profitability (%)  | 💹         |  
 
----
+![image](https://github.com/user-attachments/assets/5b9e47cc-b9e9-4b1c-b8dd-5382251928c4)
+
 
 ### **2. Sales and Profit Analysis**  
 **Objective:** Visualize trends in sales and profit over time.  
@@ -88,6 +89,7 @@ Information about sales representatives and the regions they manage.
 2. Add **Sales** and **Profit** as values.  
 3. Create a **Line Chart** to display trends.  
 4. Add **Slicers** for dynamic filtering (e.g., by category, market, or region).  
+![image](https://github.com/user-attachments/assets/ffebfbd2-97c8-4eab-b6c7-433f55dc87a2)
 
 ---
 
@@ -99,6 +101,7 @@ Information about sales representatives and the regions they manage.
 2. Sort the table in descending order of `Profit`.  
 3. Create a **Bar Chart** for visualization.  
 4. Add **Slicers** for filtering by region or year.  
+![image](https://github.com/user-attachments/assets/1a274652-cc7c-4b24-9961-7afc5ebb6ec4)
 
 ---
 
@@ -110,6 +113,7 @@ Information about sales representatives and the regions they manage.
 2. Calculate percentage share: `=Sales / Total Sales * 100`.  
 3. Use a **Pie Chart** or **Donut Chart** to visualize.  
 4. Add labels to dynamically display percentage values.  
+![image](https://github.com/user-attachments/assets/3b13a0aa-44f4-4dab-a058-eb8d013fbd9d)
 
 ---
 
@@ -121,6 +125,7 @@ Information about sales representatives and the regions they manage.
 2. Sort by descending order of `Sales`.  
 3. Apply **Conditional Formatting** or a **Heatmap** to highlight top performers.  
 4. Alternatively, use a **Geographic Map Chart** to visualize data.  
+![image](https://github.com/user-attachments/assets/181bd31b-3b48-4b7a-8bcd-340483800e5e)
 
 ---
 
@@ -132,6 +137,7 @@ Information about sales representatives and the regions they manage.
 2. Sort in descending order of `Sales`.  
 3. Filter to display only the top 5 subcategories.  
 4. Create a **Column Chart** to visualize results.  
+![image](https://github.com/user-attachments/assets/c7d5eb99-1acb-46dc-a5cb-3f2c933d1ce5)
 
 ---
 
@@ -142,6 +148,7 @@ Information about sales representatives and the regions they manage.
 1. Sort the **Pivot Table** in ascending order of `Sales`.  
 2. Filter to show the bottom 5 subcategories.  
 3. Create a **Column Chart** with contrasting colors for emphasis.  
+![image](https://github.com/user-attachments/assets/5bfaa14c-6102-4d6f-a21e-4100bc4caae2)
 
 ---
 
@@ -153,6 +160,10 @@ Information about sales representatives and the regions they manage.
 2. Add `Sales` as values.  
 3. Create a **Line Chart** to show yearly trends.  
 4. Use **Slicers** for filtering by category, region, or segment.  
+
+![image](https://github.com/user-attachments/assets/572666bf-5791-417e-ac68-d3fa33b9ee86)
+![image](https://github.com/user-attachments/assets/2223a0cf-42da-48d0-baff-facc24e3ccc9)
+
 
 ---
 
